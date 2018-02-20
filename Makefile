@@ -1,6 +1,6 @@
 start:
-	@npm run start
+	@yarn start
 deploy:
-	@npm run build && cf push
+	@yarn build && cf push
 tests:
 	@./node_modules/.bin/mocha
