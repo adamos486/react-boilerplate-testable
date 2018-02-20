@@ -1,0 +1,5 @@
+--recursive
+--colors
+--require babel-core/register
+--require ./test/config/globalConfig.js
+--reporter spec

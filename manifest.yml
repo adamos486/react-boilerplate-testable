@@ -1,0 +1,5 @@
+---
+applications:
+- name: boiler-plate
+  path: ./dist/
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git

@@ -1,0 +1,6 @@
+#OS
+.DS_Store
+
+#Client
+/node_modules
+/dist
